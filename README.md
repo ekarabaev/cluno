@@ -7,9 +7,9 @@
   
 ## Introduction
 The package provides the following processing functionality for the logistics data:
-  * Extracting raw data from the HTTP endpoint with basic authorization
-  * Transforming _duration_ and _distance_ attributes from textually described values into numeric fields represented in minutes and meters, correspondingly
-  * Saving the original dataset enriched with the two numeric fields mentioned above as a local CSV file
+  * Extract raw data from the HTTP endpoint with basic authorization
+  * Transform _duration_ and _distance_ attributes from text-based description into numeric fields represented in minutes and meters, correspondingly
+  * Save the enriched dataset as a local CSV file
   
 ## Installation
 Install the package by running the following command
