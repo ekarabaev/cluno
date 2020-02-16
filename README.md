@@ -14,7 +14,7 @@ The package provides the following processing functionality for the logistics da
 ## Installation
 Install the package by running the following command
 ```shell
-pip install -i https://test.pypi.org/simple/ cluno-logistics-task==0.0.1
+pip install -i https://test.pypi.org/simple/ cluno-logistics-task
 ```
 
 ## Usage
